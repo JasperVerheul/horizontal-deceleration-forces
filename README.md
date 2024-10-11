@@ -1,7 +1,7 @@
 # Horizontal deceleration forces
 
 ## Summary
-This respository contains a full dataset of forces experienced at different levels of the musculoskeletal system during horizontal decelerations from sprinting. The biomechanical loading variables in this dataset include:
+This respository contains a full dataset of forces experienced at different levels of the musculoskeletal system during horizontal decelerations from sprinting. The markers of biomechanical load in this dataset include:
 + ground reaction forces (anteroposterior, mediolateral, vertical)
 + joint moments (ankle, knee, hip) 
 + joint contact forces (ankle, knee, hip) 
