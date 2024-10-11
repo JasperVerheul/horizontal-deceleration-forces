@@ -13,7 +13,7 @@ This respository contains the dataset used for [Verheul et al (2024)](link). Thi
 
 The dataset and processing methods are described in more detail in [Verheul et al (2024)](https://). 
 
-Please cite this work and dataset as: Verheul, J., Harper, D., Robinson, M.A., (2024). Forces experienced ... . Journal of Sports Sciences,  
+Please cite this work and dataset as: Verheul, J., Harper, D., Robinson, M.A., (2024). Forces experienced ... . *Journal of Sports Sciences*,  
 
 ## Licensing
 All data files in this repository are available under the Apache-2.0 License (see the [LICENSE file](https://github.com/JasperVerheul/horizontal-deceleration-forces/blob/main/LICENSE) for more details).
