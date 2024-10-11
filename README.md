@@ -1,12 +1,14 @@
 # Horizontal deceleration forces
 
 ## Summary
-This respository contains a full dataset of forces experienced at different levels of the musculoskeletal system during horizontal decelerations from sprinting. The markers of biomechanical load in this dataset include:
+This respository contains the dataset used for [Verheul et al (2024)](link). This dataset includes kinematics and kinetics at different levels of the musculoskeletal system during horizontal decelerations, including:
 + ground reaction forces (anteroposterior, mediolateral, vertical)
-+ joint moments (ankle, knee, hip) 
++ joint angles (ankle, knee, hip)
++ segment centre of mass positions (full body)
++ joint moments (full body) 
 + joint contact forces (ankle, knee, hip) 
-+ muscle forces (gluteus maximus, gluteus medius, biceps femoris, semitendinosus, semimembranosus, vastus medialis, vastus lateralis, rectus femoris, gastrocnemius medialis, gastrocnemius lateralis, soleus, tibialis anterior)
-+ tendon forces (patellar, Achilles)
++ muscle and tendon lenghts (96 musculotendons)
++ muscle and tendon forces (96 musculotendons)
 
 The dataset and processing methods are described in more detail in our [Journal of ... publication](https://). 
 
