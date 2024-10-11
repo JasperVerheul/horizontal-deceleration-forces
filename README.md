@@ -9,3 +9,7 @@ This respository contains a full dataset of forces experienced at different leve
 + tendon forces (patellar, Achilles)
 
 The dataset and processing methods are described in more detail in our [Journal of ... publication](https://). 
+
+
+## Licensing
+All data files in this repository are available under the Apache-2.0 License (see the [LICENSE file](https://github.com/JasperVerheul/hybrid-muscle-tracking/blob/main/LICENSE) for more details).
