@@ -12,4 +12,4 @@ The dataset and processing methods are described in more detail in our [Journal 
 
 
 ## Licensing
-All data files in this repository are available under the Apache-2.0 License (see the [LICENSE file](https://github.com/JasperVerheul/hybrid-muscle-tracking/blob/main/LICENSE) for more details).
+All data files in this repository are available under the Apache-2.0 License (see the [LICENSE file]([https://github.com/JasperVerheul/hybrid-muscle-tracking/blob/main/LICENSE](https://github.com/JasperVerheul/horizontal-deceleration-forces/blob/main/LICENSE)) for more details).
