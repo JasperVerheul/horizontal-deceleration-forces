@@ -12,7 +12,7 @@ This respository contains the dataset used and described in [Verheul et al (2024
 
 The dataset and processing methods are described in more detail in [Verheul et al (2024)](https://). 
 
-This work and dataset can be cited as: Verheul, J., Harper, D., Robinson, M.A., (2024). Forces experienced at different levels of the musculoskeletal system during horizontal decelerations. *Journal of Sports Sciences*.
+This work and dataset can be cited as: Verheul, J., Harper, D., Robinson, M.A., (2024). Forces experienced at different levels of the musculoskeletal system during horizontal decelerations. *Journal*.
 
 ## Licensing
 All data files in this repository are available under the Apache-2.0 License (see the [LICENSE file](https://github.com/JasperVerheul/horizontal-deceleration-forces/blob/main/LICENSE) for more details).
